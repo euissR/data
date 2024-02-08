@@ -1,75 +1,75 @@
-Country,NATO/JEF,name,air/naval,x,y
-Norway,NATO/JEF,Ørland Air Station,air base,9.637428036,63.69858683
-Norway,NATO/JEF,Evenes flystasjon,air base,16.6869766,68.49208853
-Norway,NATO/JEF,Haakonsvern orlogsstasjon,naval base,5.23667046,60.33762493
-Norway,NATO/JEF,Ramsund orlogsstasjon,naval base,16.5106806,68.49390894
-Denmark,NATO/JEF,Flådestation Frederikshavn,naval base,10.53285583,57.43247596
-Denmark,NATO/JEF,Flådestation Korsør,naval base,11.13384526,55.33088526
-Denmark,NATO/JEF,Flyvestation Skrydstrup,air base,9.258200195,55.2253826
-Denmark,NATO/JEF,Flyvestation Karup,air base,9.131955319,56.29666833
-Denmark,NATO/JEF,Flyvestation Aalborg,air base,9.857783062,57.09868469
-Sweden,JEF (NATO pending),Lidköping-Såtenäs,air base,12.72673252,58.4369471
-Sweden,JEF (NATO pending),Uppsala-Ärna ,air base,17.59375049,59.89791894
-Sweden,JEF (NATO pending),Luleå,air base,22.13129725,65.55048972
-Sweden,JEF (NATO pending),Ronneby ,air base,15.26924808,56.25523672
-Sweden,JEF (NATO pending),Malmen ,air base,15.52881855,58.40261833
-Sweden,JEF (NATO pending),Karlskrona garnison,naval base,15.58446488,56.15643899
-Sweden,JEF (NATO pending),Berga örlogsbas,naval base,18.13859872,59.0805227
-United Kingdom,NATO/JEF,Coningsby,air base,-0.164639136,53.1000842
-United Kingdom,NATO/JEF,Marham,air base,0.550524647,52.65759953
-United Kingdom,NATO/JEF,Lossiemouth,air base,-3.305501494,57.71081384
-United Kingdom,NATO/JEF,Waddington,air base,-0.528985006,53.17269951
-United Kingdom,NATO/JEF,Brize Norton,air base,-1.581289817,51.76169469
-United Kingdom,NATO/JEF,Clyde,naval base,-4.816816619,56.06785531
-United Kingdom,NATO/JEF,Devonport,naval base,-4.179318707,50.39500473
-United Kingdom,NATO/JEF,Portsmouth,naval base,-1.108911076,50.80254257
-Netherlands,NATO/JEF,Eindhoven,air base,5.378190867,51.4509654
-Netherlands,NATO/JEF,Leeuwarden,air base,5.764022872,53.22533605
-Netherlands,NATO/JEF,Volkel,air base,5.70762856,51.65895907
-Netherlands,NATO/JEF,Den Helder,naval base,4.801849583,52.95771431
-Finland,NATO/JEF,Rovaniemen lentoasema,air base,25.83059172,66.55885123
-Finland,NATO/JEF,Kuopion lentoasema,air base,27.8034545,63.01286399
-Finland,NATO/JEF,Tampere-Pirkkalan lentoasema,air base,23.62737481,61.41861799
-Finland,NATO/JEF,Jyväskylän lentoasema,air base,25.6805708,62.40432318
-Finland,NATO/JEF,"Rannikkolaivasto, Pansion  esikunta",naval base,22.14258459,60.44844089
-Finland,NATO/JEF,Rannikkoprikaati,naval base,24.35911139,60.03003675
-Estonia,NATO/JEF,Ämari Lennubaas,air base,24.22352634,59.26202261
-Estonia,NATO/JEF,Tallinna Miinisadam,naval base,24.7231186,59.45287112
-Latvia,NATO/JEF,Liepaja,naval base,20.99804982,56.51603516
-Latvia,NATO/JEF,Lielvārdes Militārais Lidlauks,air base,24.85330651,56.7787144
-Lithuania,NATO/JEF,Šiaulių Oro Uostas,air base,23.38911726,55.89396423
-Lithuania,NATO/JEF,City of Klaipėda,naval base,21.13868294,55.70220455
-Poland,NATO,Swidwin (21. Air Force Base),air base,15.83123484,53.77990067
-Poland,NATO,Malbork Airport Królewo,air base,19.11837737,54.02878618
-Poland,NATO,Mińsk Mazowiecki,air base,21.6481793,52.19241124
-Poland,NATO,Wojskowa Straż Pożarna 31BLT,air base,16.97052306,52.325118
-Poland,NATO,32. Baza Lotnictwa Taktycznego,air base,19.17839344,51.558847
-Poland,NATO,Gdynia (3 Flotylla Okrętów),naval base,18.55228184,54.54354837
-Poland,NATO,Świnoujście,naval base,14.25401711,53.9038991
-Germany,NATO,Wunstorf,air base,9.444123405,52.46260172
-Germany,NATO,Wittmundhafen,air base,7.667587402,53.54916008
-Germany,NATO,Nörvenich,air base,6.661140309,50.83460453
-Germany,NATO,Büchel ,air base,7.066274429,50.17686924
-Germany,NATO,Schleswig,air base,9.518710449,54.45692246
-Germany,NATO,Rostock-Laage,air base,12.29594821,53.92030819
-Germany,NATO,Marinestützpunkt Hohe Düne,naval base,12.11449166,54.17806193
-Germany,NATO,Marinestützpunkt Kiel,naval base,10.14293601,54.35783639
-Germany,NATO,Marinestützpunkt Eckernförde,naval base,9.863704189,54.47750536
-Germany,NATO,Marinestützpunkt Heppenser Groden,naval base,8.16004827,53.54101998
-Russia,NA,Chernyakhovsk,air base,21.7912396,54.60889348
-Russia,NA,Voyennyy Aerodrom Chkalovsk,air base,20.40896573,54.77122441
-Russia,NA,Monchegorsk,air base,32.97739593,68.00173301
-Russia,NA,Olenegorsk,air base,33.41092691,68.13674241
-Russia,NA,Severomorsk-3,air base,33.73590534,68.88319486
-Russia,NA,Severomorsk-1 air base,air base,33.40447005,69.04404308
-Russia,NA,Besovets,air base,34.15666201,61.87781434
-Russia,NA,Levashovo,air base,30.20647872,60.09448064
-Russia,NA,Shatalovo,air base,32.46733077,54.33381272
-Russia,NA,Shaykovka,air base,34.37878367,54.22951782
-Russia,NA,Severomorsk,naval base,33.40887785,69.06901726
-Russia,NA,"Kronstadt, St. Petersburg",naval base,29.76200775,59.98434495
-Russia,NA,Baltiysk,naval base,19.92868104,54.63907783
-Russia,NA,Severodvinsk,naval base,39.82393741,64.58125314
-Russia,NA,Gadzhiyevo,naval base,33.34152528,69.2595384
-Russia,NA,Vidyaevo,naval base,32.79159435,69.38411827
-Russia,NA,Zaozersk,naval base,32.41914282,69.43660473
+country,alliance,name,type,x,y
+Norway,NATO/JEF,Ørland Air Station,air base,9.637428036392745,63.698586826084814
+Norway,NATO/JEF,Evenes flystasjon,air base,16.686976597438168,68.4920885334509
+Norway,NATO/JEF,Haakonsvern orlogsstasjon,naval base,5.236670460012852,60.33762492668833
+Norway,NATO/JEF,Ramsund orlogsstasjon,naval base,16.51068060495993,68.49390894283037
+Denmark,NATO/JEF,Flådestation Frederikshavn,naval base,10.532855832661678,57.43247596284477
+Denmark,NATO/JEF,Flådestation Korsør,naval base,11.13384526484919,55.330885258864306
+Denmark,NATO/JEF,Flyvestation Skrydstrup,air base,9.25820019514424,55.22538259872681
+Denmark,NATO/JEF,Flyvestation Karup,air base,9.131955319055411,56.296668332559165
+Denmark,NATO/JEF,Flyvestation Aalborg,air base,9.857783062366561,57.09868468769053
+Sweden,JEF (NATO pending),Lidköping-Såtenäs,air base,12.726732518042375,58.436947102034786
+Sweden,JEF (NATO pending),Uppsala-Ärna ,air base,17.593750492805157,59.89791893553467
+Sweden,JEF (NATO pending),Luleå,air base,22.13129725298138,65.55048972455913
+Sweden,JEF (NATO pending),Ronneby ,air base,15.269248079868442,56.25523671616865
+Sweden,JEF (NATO pending),Malmen ,air base,15.528818554210615,58.402618334621884
+Sweden,JEF (NATO pending),Karlskrona garnison,naval base,15.584464875815824,56.15643898993605
+Sweden,JEF (NATO pending),Berga örlogsbas,naval base,18.138598716535945,59.080522698368256
+United Kingdom,NATO/JEF,Coningsby,air base,-0.16463913590791918,53.10008420164025
+United Kingdom,NATO/JEF,Marham,air base,0.5505246465823771,52.65759952625018
+United Kingdom,NATO/JEF,Lossiemouth,air base,-3.305501494412151,57.71081383579298
+United Kingdom,NATO/JEF,Waddington,air base,-0.5289850058400959,53.17269951301302
+United Kingdom,NATO/JEF,Brize Norton,air base,-1.581289817227594,51.76169469087832
+United Kingdom,NATO/JEF,Clyde,naval base,-4.816816618742595,56.067855310637796
+United Kingdom,NATO/JEF,Devonport,naval base,-4.179318707088751,50.39500473175835
+United Kingdom,NATO/JEF,Portsmouth,naval base,-1.1089110760883656,50.80254256959729
+Netherlands,NATO/JEF,Eindhoven,air base,5.378190867117982,51.450965399894606
+Netherlands,NATO/JEF,Leeuwarden,air base,5.764022871973523,53.22533604863763
+Netherlands,NATO/JEF,Volkel,air base,5.70762856005104,51.65895907492504
+Netherlands,NATO/JEF,Den Helder,naval base,4.801849583220977,52.957714308479865
+Finland,NATO/JEF,Rovaniemen lentoasema,air base,25.830591715785104,66.55885123031729
+Finland,NATO/JEF,Kuopion lentoasema,air base,27.80345450341467,63.012863988493976
+Finland,NATO/JEF,Tampere-Pirkkalan lentoasema,air base,23.62737481291656,61.41861798839624
+Finland,NATO/JEF,Jyväskylän lentoasema,air base,25.68057080240221,62.40432318382919
+Finland,NATO/JEF,"Rannikkolaivasto, Pansion  esikunta",naval base,22.142584586604922,60.44844089009308
+Finland,NATO/JEF,Rannikkoprikaati,naval base,24.35911138992937,60.0300367492824
+Estonia,NATO/JEF,Ämari Lennubaas,air base,24.223526342227515,59.26202261301203
+Estonia,NATO/JEF,Tallinna Miinisadam,naval base,24.723118597439267,59.452871120539484
+Latvia,NATO/JEF,Liepaja,naval base,20.998049821120926,56.51603515878339
+Latvia,NATO/JEF,Lielvārdes Militārais Lidlauks,air base,24.853306508664243,56.7787143981324
+Lithuania,NATO/JEF,Šiaulių Oro Uostas,air base,23.389117256538057,55.893964230782665
+Lithuania,NATO/JEF,City of Klaipėda,naval base,21.13868293911782,55.70220454552679
+Poland,NATO,Swidwin (21. Air Force Base),air base,15.831234837737826,53.77990066794862
+Poland,NATO,Malbork Airport Królewo,air base,19.118377367110124,54.028786177679635
+Poland,NATO,Mińsk Mazowiecki,air base,21.648179297262214,52.19241123628583
+Poland,NATO,Wojskowa Straż Pożarna 31BLT,air base,16.97052305846183,52.32511799794433
+Poland,NATO,32. Baza Lotnictwa Taktycznego,air base,19.178393443840235,51.5588470027873
+Poland,NATO,Gdynia (3 Flotylla Okrętów),naval base,18.552281836121065,54.543548372691596
+Poland,NATO,Świnoujście,naval base,14.254017105970568,53.9038990967822
+Germany,NATO,Wunstorf,air base,9.44412340535666,52.46260172122586
+Germany,NATO,Wittmundhafen,air base,7.667587402449044,53.54916007720291
+Germany,NATO,Nörvenich,air base,6.661140309485144,50.83460452632535
+Germany,NATO,Büchel ,air base,7.066274429430693,50.17686923766537
+Germany,NATO,Schleswig,air base,9.518710449162397,54.456922462650574
+Germany,NATO,Rostock-Laage,air base,12.295948207557531,53.92030818699234
+Germany,NATO,Marinestützpunkt Hohe Düne,naval base,12.114491664811455,54.1780619263989
+Germany,NATO,Marinestützpunkt Kiel,naval base,10.142936008852871,54.35783639358863
+Germany,NATO,Marinestützpunkt Eckernförde,naval base,9.863704188559977,54.477505362005566
+Germany,NATO,Marinestützpunkt Heppenser Groden,naval base,8.160048270308858,53.54101997649416
+Russia,NA,Chernyakhovsk,air base,21.791239598225893,54.60889347637729
+Russia,NA,Voyennyy Aerodrom Chkalovsk,air base,20.408965729239338,54.77122440956459
+Russia,NA,Monchegorsk,air base,32.97739593101139,68.00173300681305
+Russia,NA,Olenegorsk,air base,33.410926908903576,68.1367424149098
+Russia,NA,Severomorsk-3,air base,33.735905338140604,68.88319486356487
+Russia,NA,Severomorsk-1 air base,air base,33.404470054867204,69.0440430778962
+Russia,NA,Besovets,air base,34.156662009838755,61.877814336022574
+Russia,NA,Levashovo,air base,30.20647872330422,60.094480643586955
+Russia,NA,Shatalovo,air base,32.46733077252703,54.33381272493313
+Russia,NA,Shaykovka,air base,34.378783667037254,54.22951782028348
+Russia,NA,Severomorsk,naval base,33.40887785151765,69.06901725890583
+Russia,NA,"Kronstadt, St. Petersburg",naval base,29.762007746014376,59.984344953699335
+Russia,NA,Baltiysk,naval base,19.928681042661818,54.63907783322242
+Russia,NA,Severodvinsk,naval base,39.823937409170526,64.58125313914978
+Russia,NA,Gadzhiyevo,naval base,33.34152528192333,69.25953840063347
+Russia,NA,Vidyaevo,naval base,32.791594351217945,69.3841182668837
+Russia,NA,Zaozersk,naval base,32.41914282425688,69.43660473139015
